@@ -1,4 +1,4 @@
-**Tugas Day 41 - Portofolio Building with Streamlit**
+**Internpro Rnd Project - Program Demand Analysis Based on Participant Feedbackt**
 -
 Nama : Zidny Ilma Zain
 
@@ -9,7 +9,7 @@ Role : Research and Development
 Daftar Isi:
 -
 - [Deskripsi](#Deskripsi-Data-Survey)
-- [Tugas](#Penjelasan-Project)
+- [Project](#Penjelasan-Project)
 - [Fitur](#Fitur-Yang-Digunakan)
 
 
