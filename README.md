@@ -15,9 +15,9 @@ Daftar Isi:
 
 **Deskripsi Data Survey:**
 -
-Dibimbing adalah platform edukasi teknologi dan persiapan karier digital, oleh karena itu Dibimbing.id banyak menyediakan program yang disesuaikan kepada audiens yang tertarik untuk mengikuti program tersebut.
+Dibimbing adalah platform edukasi teknologi dan persiapan karier digital, oleh karena itu Dibimbing.id banyak menyediakan program yang disesuaikan dengan audiens Dibimbing
 
-Untuk mengetahui kebutuhan dari setiap audiens dibimbing menggunakan survey sebagai sumber informasi menggunakan data feedback audiens mengenai kebutuhan dari program yang ingin dibangun agar bisa secara optimal dan efisien dalam mendorong program yang akan dijalankan kedepannya.
+Untuk memahami apa yang dibutuhkan audiens, Dibimbing mengumpulkan informasi melalui survei. Hasil survei ini berisi masukan langsung dari audiens, yang kemudian dijadikan acuan dalam merancang program yang tepat sasaran dan berdampak nyata bagi pelaksanaan program ke depannya.
 
 **Penjelasan Project:**
 -
