@@ -45,23 +45,23 @@ Dataset yang digunakan berasal dari hasil survey audiens Dibimbing.id yang beris
 **Tools yang digunakan dalam project ini:**
 -
 - Microsoft Excel : Data Cleaning & Preparation
-Python : Data Analysis
-Power BI : Dashboard Visualization
-GitHub : Project Documentation & Portfolio
+- Python : Data Analysis
+- Power BI : Dashboard Visualization
+- GitHub : Project Documentation & Portfolio
 Process
 
 **Tahapan analisis yang dilakukan dalam project ini:**
 -
 1. Data Cleaning
-Memeriksa missing values
-Menstandarkan kategori jawaban responden
+- Memeriksa missing values
+- Menstandarkan kategori jawaban responden
 
 2. Exploratory Data Analysis (EDA)
-Menganalisis distribusi usia responden
-Mengidentifikasi domisili responden terbanyak
-Mengetahui aktivitas utama responden
-Menganalisis program pembelajaran yang paling diminati
-Mengidentifikasi preferensi metode belajar dan jadwal belajar
+- Menganalisis distribusi usia responden
+- Mengidentifikasi domisili responden terbanyak
+- Mengetahui aktivitas utama responden
+- Menganalisis program pembelajaran yang paling diminati
+- Mengidentifikasi preferensi metode belajar dan jadwal belajar
 
 3. Data Visualization
 
