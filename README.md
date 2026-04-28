@@ -6,39 +6,93 @@ Internpro : Dibimbing.id
 
 Role : Research and Development
 
-Daftar Isi:
+**Business Problem**
 -
-- [Deskripsi](#Deskripsi-Data-Survey)
-- [Project](#Penjelasan-Project)
-- [Fitur](#Fitur-Yang-Digunakan)
+Dibimbing.id merupakan platform edukasi teknologi dan persiapan karier digital yang menyediakan berbagai program pembelajaran sesuai kebutuhan audiens.
 
+Tantangan utama yang dihadapi adalah menentukan program pembelajaran yang paling relevan, diminati, dan sesuai dengan kebutuhan target audiens agar program yang dibuat tepat sasaran serta memberikan dampak nyata terhadap peningkatan partisipasi dan kepuasan peserta.
 
-**Deskripsi Data Survey:**
+Tanpa analisis yang tepat, risiko ketidaksesuaian program dengan kebutuhan pasar dapat menyebabkan rendahnya minat peserta dan kurang optimalnya hasil program.
+
+**Objective**
 -
-Dibimbing adalah platform edukasi teknologi dan persiapan karier digital, oleh karena itu Dibimbing.id banyak menyediakan program yang disesuaikan dengan audiens Dibimbing
+Project ini bertujuan untuk menganalisis kebutuhan audiens berdasarkan hasil survey peserta guna membantu tim Research and Development dalam:
 
-Untuk memahami apa yang dibutuhkan audiens, Dibimbing mengumpulkan informasi melalui survei. Hasil survei ini berisi masukan langsung dari audiens, yang kemudian dijadikan acuan dalam merancang program yang tepat sasaran dan berdampak nyata bagi pelaksanaan program ke depannya.
+- Mengidentifikasi program pembelajaran yang paling diminati
+- Menentukan preferensi metode belajar peserta
+- Mengetahui ekspektasi harga yang sesuai
+- Memahami jadwal belajar yang paling diinginkan
+- Menentukan platform informasi yang paling efektif
+- Memberikan rekomendasi strategis untuk pengembangan program selanjutnya
 
-**Penjelasan Project:**
+**Dataset**
 -
-Project ini merupakan analisa dari kebutuhan audiens yang membantu dibimbing dalam menentukan program terbaik yang akan diberikan kepada audiens
+Dataset yang digunakan berasal dari hasil survey audiens Dibimbing.id yang berisi informasi terkait preferensi belajar peserta
 
-Data audines yang digunakan untuk analisa berupa:
+**Variables Used:**
+-
 - Usia
 - Domisili
 - Aktivitas Utama
 - Pilihan Program Belajar
 - Platform Sumber Informasi
-- Tingkat Pemahaman Terhadap program yang Dipilih
-- Ekspetasi Harga Program
+- Tingkat Pemahaman terhadap Program yang Dipilih
+- Ekspektasi Harga Program
 - Metode Pembelajaran
 - Jadwal Pembelajaran
+- Tools Used
 
-**Fitur Yang Digunakan:**
+**Tools yang digunakan dalam project ini:**
 -
-Visualisasi menggunakan:
-- Bar Chart : Mengetahui distribusi dari rentang usia responden
-- Bar Chart (Horizontal) : Mengetahui distribusi dari domisili responden terbanyak
-- Pie Chart : Mengetahui komposisi perbandingan setiap kategori dari aktivitas
-- Pie Chart : Mengetahui komposisi perbandingan setiap kategori dari program yang disediakan dibimbing
-- Bar Chart : Mengetahui distribusi masing-masing program dari tingkat pemahaman, jadwal yang diinginkan, metode belajar, ekspetasi harga program dan platform yang paling banyak digunakan responden
+- Microsoft Excel : Data Cleaning & Preparation
+Python : Data Analysis
+Power BI : Dashboard Visualization
+GitHub : Project Documentation & Portfolio
+Process
+
+**Tahapan analisis yang dilakukan dalam project ini:**
+-
+1. Data Cleaning
+Memeriksa missing values
+Menstandarkan kategori jawaban responden
+
+2. Exploratory Data Analysis (EDA)
+Menganalisis distribusi usia responden
+Mengidentifikasi domisili responden terbanyak
+Mengetahui aktivitas utama responden
+Menganalisis program pembelajaran yang paling diminati
+Mengidentifikasi preferensi metode belajar dan jadwal belajar
+
+3. Data Visualization
+
+Membuat visualisasi untuk mempermudah interpretasi insight menggunakan:
+
+- Bar Chart
+- Horizontal Bar Chart
+- Pie Chart
+- Program Preference Analysis
+  
+**Key Findings**
+-
+Beberapa insight utama yang ditemukan dari hasil analisis:
+
+- Mayoritas responden berada pada rentang usia produktif belajar
+- Sebagian besar responden berasal dari domisili dengan potensi pasar yang tinggi
+- Program tertentu memiliki demand yang jauh lebih tinggi dibanding program lainnya
+- Metode pembelajaran interaktif lebih banyak diminati
+- Peserta memiliki preferensi harga yang spesifik dan realistis
+- Platform digital tertentu menjadi sumber informasi utama audiens
+
+Insight ini membantu menentukan prioritas pengembangan program yang lebih tepat sasaran.
+
+**Recommendation**
+-
+Berdasarkan hasil analisis, beberapa rekomendasi yang dapat diberikan:
+
+- Fokus pada pengembangan program dengan demand tertinggi
+- Menyesuaikan strategi pricing dengan ekspektasi mayoritas peserta
+- Mengoptimalkan metode pembelajaran yang paling diminati
+- Menjadwalkan program pada waktu yang paling sesuai dengan preferensi audiens
+- Memaksimalkan promosi pada platform informasi yang paling efektif
+
+Dengan strategi ini, program yang dijalankan dapat memiliki engagement dan conversion rate yang lebih tinggi.
